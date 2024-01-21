@@ -21,4 +21,4 @@
   <li>by clicking on a seat, you define it as selected</li>
   <li>by clicking on the submit button, you book your seats</li>
 </ul>
-<img src=""/>
+<img src="https://github.com/zHelga/movie-ticket-booking/raw/main/movie-ticket-booking.png"/>
